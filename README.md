@@ -1,7 +1,6 @@
-### hi
+
  <h1 align="center">
-        <img
-            src=" https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I 'm+Chalitha+Chamod!;"/>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+There!+👋;+I 'm+Chalitha+Chamod!;" alt="Typing SVG" /></a>
     </h1>
 <div>
     <h3 align="center">
@@ -10,8 +9,8 @@
 </div>
     <br/>
 <div align="center">
-        🔭 I’m currently working on **Android App** 
-        🌱 I’m currently learning **Android , Java** 
+        🔭 I’m currently working on **Android App** <br/>
+        🌱 I’m currently learning **Android , Java** <br/>
         💬 Ask me about **Php, React, MySQL, JAVA... or anything <a href="https://github.com/chalitha31.chalitha31/issues">here</a>
 </div>
     <hr/>
@@ -27,7 +26,7 @@
         <h2>🐍 My Contributions 🐍</h2>
         <br>
          <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg"/>
-        <br/><br/><br/>
+        <br/><br/>
     </div>
     <h3 align="center">Connect with me:</h3>
     <p align="center">
@@ -66,10 +65,9 @@
     <br/><br/>
     <hr/>
     <h3 align="center">
-        <img
-            src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I' m+always+down+to+collab+ ">
+       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Thanks+for+visiting+%E2%9C%8C%EF%B8%8F;shoot+me+a+message+on+linkedin!;I'm+always+collab+%3A" alt="Typing SVG" /></a>
     </h3>
-    <br/>
+  
 
 
 

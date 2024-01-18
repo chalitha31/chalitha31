@@ -1,4 +1,4 @@
-
+### hi
  <h1 align="center">
         <img
             src=" https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I 'm+Chalitha+Chamod!;"/>
@@ -10,8 +10,9 @@
 </div>
     <br/>
 <div align="center">
-        🔭 I’m currently working on **Android App** 🌱 I’m currently learning **Android , Java** 💬 Ask me about **Php,
-        React, MySQL, JAVA... or anything [here](https://github.com/chalitha31.chalitha31/issues)**
+        🔭 I’m currently working on **Android App** 
+        🌱 I’m currently learning **Android , Java** 
+        💬 Ask me about **Php, React, MySQL, JAVA... or anything <a href="https://github.com/chalitha31.chalitha31/issues">here</a>
 </div>
     <hr/>
    <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>

@@ -1,11 +1,15 @@
- <h1 align=" center ">
+
+ <h1 align="center">
         <img
-            src=" https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I 'm+Chalitha+Chamod!;" />
+            src=" https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I 'm+Chalitha+Chamod!;"/>
     </h1>
 
-    <h3 align="center">A passionate software developer from Sri Lanka</h3>
 
-    <br />
+    <h3 align="center">
+    A passionate software developer from Sri Lanka
+    </h3>
+
+    <br/>
 
     <div align="center">
 
@@ -14,26 +18,23 @@
 
     </div>
 
-   
-
-
-    <hr />
+    <hr/>
 
     <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-    <br />
+    <br/>
     <div align="center">
         <img src="https://skillicons.dev/icons?i=php,html,css,javascript,vscode" /><br>
-        <img src="https://skillicons.dev/icons?i=github,firebase,mysql,react,bootstrap,arduino,figma,git,java" />
+        <img src="https://skillicons.dev/icons?i=github,firebase,mysql,react,bootstrap,arduino,figma,git,java"/>
 
     </div>
 
-    <br />
-    <hr />
+    <br/>
+    <hr/>
 
    <div align="center">
         <h2>🐍 My Contributions 🐍</h2>
         <br>
-         <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+         <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg"/>
   
         <br/><br/><br/>
     </div>
@@ -54,48 +55,58 @@
                 alt="chali_tha31" height="30" width="40" /></a>
     </p>
 
-    <hr />
+    <hr/>
 
     <h2 align="center">⚡ Stats ⚡</h2>
     <br>
     <div align=center>
         <img width=450
             src="https://streak-stats.demolab.com/?user=chalitha31&count_private=true&theme=react&border_radius=10"
-            alt="streak stats" />
-        <!-- <img width=390 src="https://github-readme-stats.vercel.app/api?username=chalitha31&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-        <br/>
-        <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chalitha31&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"
-            alt="top langs" /> -->
+            alt="streak stats"/>
+       
 
     </div>
     <br />
     <div align=center>
-        <!-- <img width=390 src="https://streak-stats.demolab.com/?user=chalitha31&count_private=true&theme=react&border_radius=10" alt="streak stats" /> -->
+       
         <img width=450
-            src="https://github-readme-stats.vercel.app/api?username=chalitha31&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10"
-            alt="readme stats" />
-        <br />
+            src="https://github-readme-stats.vercel.app/api?username=chalitha31&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
+        <br/>
       
 
     </div>
-    <br />
+    <br/>
     <div align=center>
-        <!-- <img width=390 src="https://streak-stats.demolab.com/?user=chalitha31&count_private=true&theme=react&border_radius=10" alt="streak stats" />
-        <img width=390 src="https://github-readme-stats.vercel.app/api?username=chalitha31&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /> -->
+      
 
         <img width=365 align="center"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=chalitha31&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"
-            alt="top langs" />
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=chalitha31&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs"/>
 
     </div>
 
-    <br /><br />
-    <hr />
+    <br/><br/>
+    <hr/>
 
     <h3 align="center">
         <img
-            src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I' m+always+down+to+collab+:) ">
+            src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I' m+always+down+to+collab+ ">
     </h3>
 
-    <br />
+    <br/>
 
+
+
+<!--
+**chalitha31/chalitha31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->

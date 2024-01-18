@@ -10,9 +10,11 @@
 </div>
     <br/>
 <div align="center">
-       <h4>🔭 I’m currently working on **Android App**</h4>  <br/>
-       <h4>🌱 I’m currently learning **Android , Java**</h4>   <br/>
+<div align="left">
+       <h4>🔭 I’m currently working on **Android App**</h4> 
+       <h4>🌱 I’m currently learning **Android , Java**</h4>  
        <h4>💬 Ask me about **Php, React, MySQL, JAVA... or anything <a href="https://api.whatsapp.com/send?phone=94713772006&text=Hello!"> send message </a></h4>  
+       </div>
 </div>
     <hr/>
    <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>

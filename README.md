@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+Who am I?
+I'm a full-time Software Engineer, I also like to share my code so others can make use of them.
+
 <!--
 **chalitha31/chalitha31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

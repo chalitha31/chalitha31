@@ -11,9 +11,11 @@
     <br/>
 <div align="center">
 <div align="left">
-       <h4>🔭 I’m currently working on **Android App**</h4> 
-       <h4>🌱 I’m currently learning **Android , Java**</h4>  
-       <h4>💬 Ask me about **Php, React, MySQL, JAVA... or anything <a href="https://api.whatsapp.com/send?phone=94713772006&text=Hello!"> send message </a></h4>  
+<ul>
+      <li> <h4> 🔭 I’m currently working on  **Android App**</h4></li>
+       <li> <h4>🌱 I’m currently learning  **Android , Java**</h4></li>
+       <li> <h4>💬 Ask me about **Php, React, MySQL, JAVA... or anything <a href="https://api.whatsapp.com/send?phone=94713772006&text=Hello!"> <u>send message</u> </a></h4></li>
+       </ul>  
        </div>
 </div>
     <hr/>

@@ -1,6 +1,7 @@
 
  <h1 align="center">
-  <a  align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+There+%F0%9F%91%8B;I'+m+Chalitha+Chamod" alt="Typing SVG" /></a>
+  <!-- <a  align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+There+%F0%9F%91%8B;I'+m+Chalitha+Chamod" alt="Typing SVG" /></a> -->
+  Hi 👋, I'm Chalitha Chamod
     </h1>
 <div>
     <h3 align="center">
@@ -57,11 +58,11 @@
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
                 alt="chali_tha31" height="30" width="40" /></a>
     </p>
-    <hr/>
+    <br/>
     <h3 align="center">
-       <a  align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Thanks+for+visiting+%E2%9C%8C%EF%B8%8F;shoot+me+a+message+on+linkedin!;I'm+always+collab+%3A" alt="Typing SVG" /></a>
+       <a  align="center" href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Thanks+for+visiting+%E2%9C%8C%EF%B8%8F;shoot+me+a+message+on+linkedin!;I'm+always+collab+%3A" alt="Typing SVG" /></a>
     </h3>
-  
+   <hr/>
 
 
 

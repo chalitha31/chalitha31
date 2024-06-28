@@ -12,8 +12,8 @@
 <div align="center">
 <div align="left">
 <ul>
-      <li> <h4> 🔭 I’m currently working on  **Android App**</h4></li>
-       <li> <h4>🌱 I’m currently learning  **Android , Java**</h4></li>
+      <li> <h4> 🔭 I’m currently working on  **PHP Project**</h4></li>
+       <li> <h4>🌱 I’m currently learning  **React , Java**</h4></li>
        <li> <h4>💬 Ask me about **Php, React, MySQL, JAVA... or anything <a href="https://api.whatsapp.com/send?phone=94713772006&text=Hello!"> <u>send message</u> </a></h4></li>
        </ul>  
        </div>
